@@ -1,0 +1,28 @@
+html, body{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: "Microsoft YaHei";
+  min-width: 1366px;
+  min-height: 768px;
+  color: #333333;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+p{
+  margin: 0;
+  padding: 0;
+}
+
+ul, li{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
